@@ -25,4 +25,4 @@ C++ developer specializing in graphics, low level programming and fullstack reac
 
 ## about me
 - pronouns: he/him :D
-- discord: [rupamdas01](https://discord.com/users/1319912096686674051)
+- discord: [melodyy_fr](https://discord.com/users/1467510683649310750)
